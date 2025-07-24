@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+    {
+      "id": 1004,
+      "category": "dress up",
+      "title": "Pet Costume Contest",
+      "description": "Dress your pet in their best costume for a chance to win prizes.",
+      "location": "Costume Park",
+      "date": "October 10, 2022",
+      "time": "1:00",
+      "petsAllowed": true,
+      "organizer": "Anita Paw"
     }
   ]
 }
